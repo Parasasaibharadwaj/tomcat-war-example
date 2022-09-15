@@ -17,7 +17,5 @@ public class Greeter {
     return String.format("Hello, %s!", someone);
   }
 }
-{
-  @ 324
-    g7gcy
+
     
